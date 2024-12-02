@@ -1,3 +1,5 @@
 [
-"netrun01"
+  "netrun01",
+  "iduser1",
+  "iduser2"
 ]
