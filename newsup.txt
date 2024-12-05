@@ -1,4 +1,4 @@
-
-🇬🇧: The script in V2 I'm going to add a view and some colors to the view and I'm also adding some Methods.
-
-🇮🇩: Di script V2 nantinya aku nambahin warna pada beberapa tampilan dan juga menambahkan methods.
+ 
+US: The script in V2 I'm going to add a view and some colors to the view and I'm also adding some Methods.
+ 
+ID: Di script V2 nantinya aku nambahin warna pada beberapa tampilan dan juga menambahkan methods.
