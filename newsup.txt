@@ -1,1 +1,4 @@
-Hello everyone, for the next version of the project will be added some useful features. will be updated at the end of the year
+
+🇬🇧: The script in V2 I'm going to add a view and some colors to the view and I'm also adding some Methods.
+
+🇮🇩: Di script V2 nantinya aku nambahin warna pada beberapa tampilan dan juga menambahkan methods.
